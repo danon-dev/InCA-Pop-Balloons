@@ -1,2 +1,3 @@
 # InCA-Pop-Balloons
-Reseach Project
+Research Project
+Authors: Jeremy Barbay, Danko Lobos.
